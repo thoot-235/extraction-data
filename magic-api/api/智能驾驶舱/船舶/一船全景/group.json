@@ -1,0 +1,14 @@
+{
+  "properties" : { },
+  "id" : "a2f8b128e2c64d9eba631714dd3787a1",
+  "name" : "一船全景",
+  "type" : "api",
+  "parentId" : "4a84982a8c924af6b805a5f070a7f5c8",
+  "path" : "/shipInfo",
+  "createTime" : 1697508444214,
+  "updateTime" : 1699355511808,
+  "createBy" : "admin",
+  "updateBy" : "admin",
+  "paths" : [ ],
+  "options" : [ ]
+}

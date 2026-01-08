@@ -1,0 +1,14 @@
+{
+  "properties" : { },
+  "id" : "8a28188438b44a14951177035a25241b",
+  "name" : "标签",
+  "type" : "api",
+  "parentId" : "95070dee3d23417aa1cc50414c1e05a2",
+  "path" : "/label",
+  "createTime" : 1673229765068,
+  "updateTime" : 1691749538119,
+  "createBy" : "admin",
+  "updateBy" : "admin",
+  "paths" : [ ],
+  "options" : [ ]
+}

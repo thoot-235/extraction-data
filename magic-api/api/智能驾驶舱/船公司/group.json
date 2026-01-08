@@ -1,0 +1,14 @@
+{
+  "properties" : { },
+  "id" : "32fd6df1028049b98e9c7064eb84bfa1",
+  "name" : "船公司",
+  "type" : "api",
+  "parentId" : "60538f495bcb403dba66990fc27f3d74",
+  "path" : "/company",
+  "createTime" : null,
+  "updateTime" : 1700304281554,
+  "createBy" : null,
+  "updateBy" : "admin",
+  "paths" : [ ],
+  "options" : [ ]
+}

@@ -1,0 +1,14 @@
+{
+  "properties" : { },
+  "id" : "8cd1d381d35341d7ad577530fe8c8935",
+  "name" : "长江全貌",
+  "type" : "api",
+  "parentId" : "60538f495bcb403dba66990fc27f3d74",
+  "path" : "/fullView",
+  "createTime" : 1697612828145,
+  "updateTime" : 1700304281582,
+  "createBy" : "admin",
+  "updateBy" : "admin",
+  "paths" : [ ],
+  "options" : [ ]
+}

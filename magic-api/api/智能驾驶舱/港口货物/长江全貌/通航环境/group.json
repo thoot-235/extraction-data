@@ -1,0 +1,14 @@
+{
+  "properties" : { },
+  "id" : "39ce103c23184972a79a5498216c3525",
+  "name" : "通航环境",
+  "type" : "api",
+  "parentId" : "8cd1d381d35341d7ad577530fe8c8935",
+  "path" : "/navigation",
+  "createTime" : 1697612828194,
+  "updateTime" : 1700304281601,
+  "createBy" : "admin",
+  "updateBy" : "admin",
+  "paths" : [ ],
+  "options" : [ ]
+}

@@ -1,0 +1,14 @@
+{
+  "properties" : { },
+  "id" : "8cfab9687d1a495288b389b5545384b5",
+  "name" : "新能源船舶",
+  "type" : "api",
+  "parentId" : "4a84982a8c924af6b805a5f070a7f5c8",
+  "path" : "/newEnergy",
+  "createTime" : 1731064071073,
+  "updateTime" : 1736133622884,
+  "createBy" : "admin",
+  "updateBy" : "admin",
+  "paths" : [ ],
+  "options" : [ ]
+}

@@ -1,0 +1,14 @@
+{
+  "properties" : { },
+  "id" : "ee26923e30094e23bd55337d62b5f351",
+  "name" : "流量流向",
+  "type" : "api",
+  "parentId" : "4a84982a8c924af6b805a5f070a7f5c8",
+  "path" : "/flow",
+  "createTime" : 1696814668941,
+  "updateTime" : 1699355511816,
+  "createBy" : "admin",
+  "updateBy" : "admin",
+  "paths" : [ ],
+  "options" : [ ]
+}

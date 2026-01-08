@@ -1,0 +1,14 @@
+{
+  "properties" : { },
+  "id" : "429bf27232e44bdbae1a46ea3dcc6609",
+  "name" : "一员全景",
+  "type" : "api",
+  "parentId" : "2f1547fab09d49558574be41cc939413",
+  "path" : "/oneCrew",
+  "createTime" : 1699871306019,
+  "updateTime" : null,
+  "createBy" : "admin",
+  "updateBy" : null,
+  "paths" : [ ],
+  "options" : [ ]
+}

@@ -1,0 +1,14 @@
+{
+  "properties" : { },
+  "id" : "c41bce8c9d11400293c67cb04153e13a",
+  "name" : "货运分析",
+  "type" : "api",
+  "parentId" : "d8626fae5c4d4755a9689476b5f29563",
+  "path" : "/freight",
+  "createTime" : 1696815292193,
+  "updateTime" : 1699355511759,
+  "createBy" : "admin",
+  "updateBy" : "admin",
+  "paths" : [ ],
+  "options" : [ ]
+}

@@ -1,0 +1,14 @@
+{
+  "properties" : { },
+  "id" : "6436edcda6ac42f98d2495e8f34240da",
+  "name" : "船舶",
+  "type" : "api",
+  "parentId" : "95070dee3d23417aa1cc50414c1e05a2",
+  "path" : "/ship",
+  "createTime" : 1662171166852,
+  "updateTime" : 1702288496783,
+  "createBy" : "admin",
+  "updateBy" : "admin",
+  "paths" : [ ],
+  "options" : [ ]
+}

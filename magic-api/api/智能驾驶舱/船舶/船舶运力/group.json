@@ -1,0 +1,14 @@
+{
+  "properties" : { },
+  "id" : "ad7916198d1c4366b78002efce64e866",
+  "name" : "船舶运力",
+  "type" : "api",
+  "parentId" : "4a84982a8c924af6b805a5f070a7f5c8",
+  "path" : "/capacity",
+  "createTime" : 1696814581122,
+  "updateTime" : 1699355511821,
+  "createBy" : "admin",
+  "updateBy" : "admin",
+  "paths" : [ ],
+  "options" : [ ]
+}

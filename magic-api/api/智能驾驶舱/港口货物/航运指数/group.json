@@ -1,0 +1,14 @@
+{
+  "properties" : { },
+  "id" : "f5998905462549148b80f5b1041a25ae",
+  "name" : "航运指数",
+  "type" : "api",
+  "parentId" : "d8626fae5c4d4755a9689476b5f29563",
+  "path" : "/exponent",
+  "createTime" : 1696815315585,
+  "updateTime" : 1699355511754,
+  "createBy" : "admin",
+  "updateBy" : "admin",
+  "paths" : [ ],
+  "options" : [ ]
+}

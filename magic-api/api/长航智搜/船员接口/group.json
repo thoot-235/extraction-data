@@ -1,0 +1,14 @@
+{
+  "properties" : { },
+  "id" : "69f9552f682c4f55a2f59d8663909151",
+  "name" : "船员接口",
+  "type" : "api",
+  "parentId" : "95070dee3d23417aa1cc50414c1e05a2",
+  "path" : "/crew",
+  "createTime" : 1679883321992,
+  "updateTime" : 1693552388129,
+  "createBy" : "admin",
+  "updateBy" : "admin",
+  "paths" : [ ],
+  "options" : [ ]
+}

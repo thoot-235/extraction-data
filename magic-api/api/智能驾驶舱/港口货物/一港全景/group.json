@@ -1,0 +1,14 @@
+{
+  "properties" : { },
+  "id" : "06840557c3324b57a151875e9c1c91e7",
+  "name" : "一港全景",
+  "type" : "api",
+  "parentId" : "d8626fae5c4d4755a9689476b5f29563",
+  "path" : "/port",
+  "createTime" : 1696815351306,
+  "updateTime" : 1699432720335,
+  "createBy" : "admin",
+  "updateBy" : "admin",
+  "paths" : [ ],
+  "options" : [ ]
+}

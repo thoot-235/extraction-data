@@ -1,0 +1,14 @@
+{
+  "properties" : { },
+  "id" : "60538f495bcb403dba66990fc27f3d74",
+  "name" : "智能驾驶舱",
+  "type" : "api",
+  "parentId" : "0",
+  "path" : "/smartCockpit",
+  "createTime" : 1731064070935,
+  "updateTime" : 1736133622623,
+  "createBy" : "admin",
+  "updateBy" : "admin",
+  "paths" : [ ],
+  "options" : [ ]
+}
